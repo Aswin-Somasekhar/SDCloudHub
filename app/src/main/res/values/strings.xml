@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SD Cloud &amp; Media Hub</string>
+    <string name="notification_channel_name">Server Running Status</string>
+    <string name="notification_channel_desc">Shows active status and connections for the Cloud &amp; DLNA Server</string>
+</resources>
